@@ -1,0 +1,25 @@
+{
+  "name": "bussy",
+  "version": "0.1.0",
+  "description": "Event bus abstractions and implementations",
+  "author": {
+    "name": "Sergey Kamardin",
+    "email": "gobwas@gmail.com",
+    "url": "https://github.com/gobwas"
+  },
+  "repository": "gobwas/bussy",
+  "license": "MIT",
+  "keywords": [
+    "bussy",
+    "event",
+    "bus"
+  ],
+  "dependencies": {
+    "inherits-js": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "main": "./index.js"
+}
