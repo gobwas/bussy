@@ -1,6 +1,6 @@
 {
   "name": "bussy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Event bus abstractions and implementations",
   "author": {
     "name": "Sergey Kamardin",
